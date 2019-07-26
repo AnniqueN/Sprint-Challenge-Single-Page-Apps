@@ -38,3 +38,15 @@ header h1 {
   text-align: center;
 
 }
+
+.location-card {
+  height: 4rem;
+}
+
+.search-form {
+  text-align: center;
+}
+
+.pagination-container {
+  text-align: center;
+}
